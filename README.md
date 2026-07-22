@@ -55,5 +55,4 @@ The Meet Transcriber Core is a Python-based application that manages meeting aud
 1. Ensure Python is installed in your local environment.
 2. Install the required packages by pointing your package manager to the included `requirements.txt` file
 3. Configure your environment variables in `config.py` as needed
-4. Start the program by running `main.py` from your terminal[cite: 2].
-EOF
+4. Start the program by running `main.py` from your terminal
