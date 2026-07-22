@@ -1,3 +1,4 @@
+cat << 'EOF' | sed 's/\*\]//g' > README.md
 # Kushagra Tradeved Projects
 
 This repository serves as a centralized space for the core applications developed under the `kushagra-tradeved` workspace[cite: 1, 2]. It currently houses two primary projects: **Tradeved Copilot MVP**[cite: 1] and **Meet Transcriber Core**[cite: 2].
@@ -55,3 +56,4 @@ The Meet Transcriber Core is a Python-based application that manages meeting aud
 2. Install the required packages by pointing your package manager to the included `requirements.txt` file[cite: 2].
 3. Configure your environment variables in `config.py` as needed[cite: 2].
 4. Start the program by running `main.py` from your terminal[cite: 2].
+EOF
